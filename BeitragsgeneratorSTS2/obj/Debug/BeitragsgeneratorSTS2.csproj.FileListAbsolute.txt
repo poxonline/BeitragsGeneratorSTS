@@ -1,0 +1,12 @@
+c:\users\peter\documents\visual studio 2013\Projects\BeitragsgeneratorSTS2\BeitragsgeneratorSTS2\bin\Debug\BeitragsgeneratorSTS2.exe.config
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\BeitragsgeneratorSTS2\BeitragsgeneratorSTS2\bin\Debug\BeitragsgeneratorSTS2.exe
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\BeitragsgeneratorSTS2\BeitragsgeneratorSTS2\bin\Debug\BeitragsgeneratorSTS2.pdb
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\BeitragsgeneratorSTS2\BeitragsgeneratorSTS2\obj\Debug\BeitragsgeneratorSTS2.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\BeitragsgeneratorSTS2\BeitragsgeneratorSTS2\obj\Debug\BeitragsgeneratorSTS2.EineAnlage.resources
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\BeitragsgeneratorSTS2\BeitragsgeneratorSTS2\obj\Debug\BeitragsgeneratorSTS2.Auswahl.resources
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\BeitragsgeneratorSTS2\BeitragsgeneratorSTS2\obj\Debug\BeitragsgeneratorSTS2.MehrereAnlagen.resources
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\BeitragsgeneratorSTS2\BeitragsgeneratorSTS2\obj\Debug\BeitragsgeneratorSTS2.Properties.Resources.resources
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\BeitragsgeneratorSTS2\BeitragsgeneratorSTS2\obj\Debug\BeitragsgeneratorSTS2.csproj.GenerateResource.Cache
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\BeitragsgeneratorSTS2\BeitragsgeneratorSTS2\obj\Debug\BeitragsgeneratorSTS2.exe
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\BeitragsgeneratorSTS2\BeitragsgeneratorSTS2\obj\Debug\BeitragsgeneratorSTS2.pdb
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\BeitragsgeneratorSTS2\BeitragsgeneratorSTS2\obj\Debug\BeitragsgeneratorSTS2.ErbauerAustragen.resources
